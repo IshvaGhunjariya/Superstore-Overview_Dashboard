@@ -35,6 +35,6 @@ Data Cleaning & Transformation: Power Query
 Visualization & Storytelling: Power BI Visuals, DAX measures
 
 ## Dashboard:
-<a href = https://github.com/IshvaGhunjariya/Superstore-Overview_Dashboard/blob/main/Dashboard.jpg> </a>
+https://github.com/IshvaGhunjariya/Superstore-Overview_Dashboard/blob/main/Dashboard.jpg
 
 
